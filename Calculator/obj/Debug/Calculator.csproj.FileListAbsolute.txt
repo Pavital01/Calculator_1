@@ -1,0 +1,13 @@
+C:\Users\citiz\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\citiz\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\citiz\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\citiz\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\citiz\Source\Repos\Calculator\Calculator\bin\Debug\Magick.NET.Core.dll
+C:\Users\citiz\Source\Repos\Calculator\Calculator\bin\Debug\Magick.NET.Core.xml
+C:\Users\citiz\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
